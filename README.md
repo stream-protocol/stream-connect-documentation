@@ -1,10 +1,6 @@
-Template for **Stream**Connect Documentation:
-
----
-
 # StreamConnect Documentation
 
-Welcome to the **Stream**Connect Documentation. This guide provides detailed information on how to use **Stream**Payments, a versatile Web3 development framework for creating and managing Web3 applications and **Stream**Payments Plugins, Frameworks, and **Stream**Payments E-Commerce Gateways.
+Welcome to the **Stream**Connect Documentation. This guide provides detailed information on how to use **Stream**Payments, a versatile Web3 development framework for creating and managing Web3 applications, and **Stream**Payments Plugins, Frameworks, and **Stream**Payments E-Commerce Gateways.
 
 ## Table of Contents
 
