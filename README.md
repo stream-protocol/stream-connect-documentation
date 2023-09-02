@@ -87,7 +87,7 @@ Find solutions to common issues and troubleshoot problems with **Stream**mPaymen
 
 ## Frequently Asked Questions (FAQs)
 
-Explore a list of frequently asked questions about **Stream**Connect.
+Explore a list of frequently asked questions about **Stream**Connect and **Stream**Payments.
 
 - [FAQs](#faqs)
 
