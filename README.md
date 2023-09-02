@@ -41,7 +41,7 @@ Learn how to configure **Stream**Payments for your specific use case. This inclu
 
 ## Usage
 
-Detailed instructions on how to use StreamConnect's features:
+Detailed instructions on how to use **Stream**Payments features:
 
 ### Initialization
 
@@ -66,7 +66,7 @@ Learn how to create and manage transactions using **Stream**Payments.
 
 ### Customization
 
-Customize StreamConnect to suit your application's specific requirements.
+Customize **Stream**Payments to suit your application's specific requirements.
 
 - [Customization Options](#customization-options)
 - [Adding Custom Features](#adding-custom-features)
