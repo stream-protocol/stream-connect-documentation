@@ -1,117 +1,135 @@
-# StreamConnect Documentation
+# StreamConnect and StreamPayments
 
-Welcome to the **Stream**Connect Documentation. This guide provides detailed information on how to use **Stream**Payments, a versatile Web3 development framework for creating and managing Web3 applications, and **Stream**Payments Plugins, Frameworks, and **Stream**Payments E-Commerce Gateways.
+**Stream***Connect is a versatile development framework designed to simplify the process of creating and deploying Web3 applications, managing payments, and enhancing e-commerce platforms. This repository contains documentation and resources for both **Stream**Connect and **Stream**Payments.
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Configuration](#configuration)
-4. [Usage](#usage)
-   - [Initialization](#initialization)
-   - [Payment Processing](#payment-processing)
-   - [Transactions](#transactions)
-   - [Customization](#customization)
-5. [Integration with E-commerce Platforms](#integration-with-e-commerce-platforms)
-6. [Troubleshooting](#troubleshooting)
-7. [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
-8. [Community and Support](#community-and-support)
-9. [Contribution Guidelines](#contribution-guidelines)
-10. [License](#license)
+2. [StreamConnect](#streamconnect)
+   - [Getting Started](#getting-started-with-streamconnect)
+   - [Configuration](#configuration)
+   - [Usage](#usage)
+   - [Integration with E-commerce Platforms](#integration-with-e-commerce-platforms)
+   - [Troubleshooting](#troubleshooting)
+   - [Frequently Asked Questions (FAQs)](#streamconnect-faqs)
+   - [Community and Support](#community-and-support)
+   - [Contribution Guidelines](#contribution-guidelines)
+   - [License](#streamconnect-license)
+3. [StreamPayments](#streampayments)
+   - [Getting Started](#getting-started-with-streampayments)
+   - [Configuration](#configuration-1)
+   - [Usage](#usage-1)
+   - [Integration with E-commerce Platforms](#integration-with-e-commerce-platforms-1)
+   - [Troubleshooting](#troubleshooting-1)
+   - [Frequently Asked Questions (FAQs)](#streampayments-faqs)
+   - [Community and Support](#community-and-support-1)
+   - [Contribution Guidelines](#contribution-guidelines-1)
+   - [License](#streampayments-license)
 
 ## Introduction
 
-**Stream**Connect is a versatile development framework designed to simplify the process of creating and deploying Web3 applications and payments. Whether you are building Web3 applications, integrating Web3 functionality into e-commerce platforms, or processing Web3 payments, **Stream**Connect offers a unified solution.
+**Stream**Connect is a comprehensive framework designed to simplify the development of Web3 applications, payment processing, and e-commerce platform integration. Whether you are building Web3 applications or enhancing your e-commerce platform with Web3 functionality, **Stream**Connect´s frameworks, and **Stream**Payments Gateways offer unified solutions.
 
-## Getting Started
+## StreamConnect
 
-This section provides an overview of the steps required to get started with **Stream**Connect and **Stream**Payments.
+### Getting Started with StreamConnect
+
+Learn how to set up and start using **Stream**Payments for your Web3 development projects.
 
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [Integration](#integration)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Integration with E-commerce Platforms](#integration-with-e-commerce-platforms)
+- [Troubleshooting](#troubleshooting)
+- [FAQs](#streamconnect-faqs)
+- [Community and Support](#community-and-support)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#streamconnect-license)
 
-## Configuration
+### Configuration
 
-Learn how to configure **Stream**Payments for your specific use case. This includes setting up your preferred blockchain network, e-commerce platform settings, and other configuration options.
+Configure **Stream**Payments to fit your specific use case by setting up your preferred blockchain network, e-commerce platform settings, and other configuration options.
 
-- [Blockchain Configuration](#blockchain-configuration)
-- [E-commerce Platform Configuration](#e-commerce-platform-configuration)
-- [Advanced Configuration](#advanced-configuration)
+### Usage
 
-## Usage
+Detailed instructions on how to use **Stream**Payment's features for Web3 application development, payment processing, and customization.
 
-Detailed instructions on how to use **Stream**Payments features:
+### Integration with E-commerce Platforms
 
-### Initialization
+Discover how to seamlessly integrate **Stream**Payments with popular e-commerce platforms.
 
-Learn how to initialize **Stream**Payments with your chosen configuration.
+### Troubleshooting
 
-- [Initializing **Stream**Payments](#initializing-streampayments)
-- [Authentication and Authorization](#authentication-and-authorization)
+Find solutions to common issues and troubleshoot problems with **Stream**Payments.
 
-### Payment Processing
+### StreamConnect FAQs
 
-Explore how to seamlessly process Web3 payments with **Stream**Payments.
+Explore a list of frequently asked questions about **Stream**Connect.
 
-- [Processing Payments](#processing-payments)
-- [Supported Payment Methods](#supported-payment-methods)
+### Community and Support
 
-### Transactions
+Join the **Stream**Payments community, get support, and stay updated on the latest developments.
 
-Learn how to create and manage transactions using **Stream**Payments.
-
-- [Creating Transactions](#creating-transactions)
-- [Transaction History](#transaction-history)
-
-### Customization
-
-Customize **Stream**Payments to suit your application's specific requirements.
-
-- [Customization Options](#customization-options)
-- [Adding Custom Features](#adding-custom-features)
-
-## Integration with E-commerce Platforms
-
-Discover how to integrate **Stream**mPayments with popular e-commerce platforms.
-
-- [Medusa Integration](#medusa-integration)
-- [Other E-commerce Platforms](#other-e-commerce-platforms)
-
-## Troubleshooting
-
-Find solutions to common issues and troubleshoot problems with **Stream**mPayments.
-
-- [Common Issues](#common-issues)
-- [Troubleshooting Guide](#troubleshooting-guide)
-
-## Frequently Asked Questions (FAQs)
-
-Explore a list of frequently asked questions about **Stream**Connect and **Stream**Payments.
-
-- [FAQs](#faqs)
-
-## Community and Support
-
-Join the **Stream**Connect community, get support, and stay updated.
-
-- [Community Support](#community-support)
-- [Support Channels](#support-channels)
-
-## Contribution Guidelines
+### Contribution Guidelines
 
 Interested in contributing to **Stream**Connect? Learn how to contribute to the project.
 
-- [Contribution Guidelines](#contribution-guidelines)
-- [Code of Conduct](#code-of-conduct)
+## StreamPayments
+
+### Getting Started with StreamPayments
+
+Learn how to set up and start using **Stream**Payments for Web3 payment processing and e-commerce platform enhancements.
+
+- [Installation](#installation-1)
+- [Configuration](#configuration-1)
+- [Usage](#usage-1)
+- [Integration with E-commerce Platforms](#integration-with-e-commerce-platforms-1)
+- [Troubleshooting](#troubleshooting-1)
+- [FAQs](#streampayments-faqs)
+- [Community and Support](#community-and-support-1)
+- [Contribution Guidelines](#contribution-guidelines-1)
+- [License](#streampayments-license)
+
+### Configuration
+
+Configure **Stream**Payments for your specific use case, including blockchain network settings and e-commerce platform integration.
+
+### Usage
+
+Detailed instructions on how to use **Stream**Payments for payment processing and e-commerce platform integration.
+
+### Integration with E-commerce Platforms
+
+Learn how to integrate **Stream**Payments with popular e-commerce platforms, including Medusa.
+
+### Troubleshooting
+
+Troubleshoot common issues and find solutions to problems related to StreamPayments.
+
+### StreamPayments FAQs
+
+Explore frequently asked questions about **Stream**Payments.
+
+### Community and Support
+
+Join the **Stream**Payments community, get support, and stay connected with other users and developers.
+
+### Contribution Guidelines
+
+Learn how to contribute to the **Stream**Payments project.
+
+### StreamPayments License
+
+Review the licensing information for **Stream**Payments.
+
+## Contribution Guidelines
+
+If you'd like to contribute to this documentation or the **Stream**Connect and **Stream**Payments projects, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
-Review the licensing information for **Stream**Connect.
+**Stream**Connect and **Stream**Payments are open-source projects licensed under the MIT License. For details, please see the [LICENSE](LICENSE) file.
 
-- [License](#license)
+MIT © Stream Protocol
 
-## Additional Resources
-
-- [Release Notes](#release-notes)
-- [API Reference](#api-reference)
