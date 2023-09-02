@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "stream-connect-docs",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "StreamPayments development documentation",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
