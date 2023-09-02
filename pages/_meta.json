@@ -1,10 +1,12 @@
 {
-    "index": "Introduction",
-    "another": "Another Page",
-    "advanced": "Advanced (A Folder)",
+    "index": "Home",
+    "overview": "Overview",
+    "introduction": "Introduction",
+    "frameworks": "Frameworks",
     "about": {
-        "title": "About",
-        "type": "page"
+        "title": "About Us",
+        "type": "page",
+        "contact": "Contact Us"
     },
     "contact": {
         "title": "Contact ↗",
