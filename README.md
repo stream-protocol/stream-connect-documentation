@@ -25,7 +25,7 @@ Welcome to the **Stream**Connect Documentation. This guide provides detailed inf
 
 ## Getting Started
 
-This section provides an overview of the steps required to get started with **Stream**Connect.
+This section provides an overview of the steps required to get started with **Stream**Connect and **Stream**Payments.
 
 - [Installation](#installation)
 - [Configuration](#configuration)
