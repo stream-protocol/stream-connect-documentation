@@ -1,6 +1,6 @@
 # StreamConnect and StreamPayments (Under Construction)
 
-**Stream**Connect is a versatile development framework designed to simplify the process of creating and deploying Web3 applications, managing payments, and enhancing e-commerce platforms. This repository contains documentation and resources for both **Stream**Connect and **Stream**Payments.
+**Stream**Connect is a versatile development framework designed to simplify the process of creating and deploying Web3 applications, managing payments, and enhancing e-commerce platforms. This repository contains documentation and resources for both **Stream**Connect, **Stream** Payment Gateway, and Stream**Pay**™ e-commerce payments plugins.
 
 ## Table of Contents
 
